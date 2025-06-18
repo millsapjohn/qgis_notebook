@@ -1,0 +1,22 @@
+[general]
+name=QNotebook
+qgisMinimumVersion=3.00
+email=jmillsapengineer@gmail.com
+author=John Millsap
+description=Jupyter Notebooks in QGIS
+about=access Jupyter Notebooks with full PyQGIS integration
+version=0.1
+repository=https://github.com/millsapjohn/qnotebook
+
+changelog=changelog
+experimental=True
+deprecated=False
+tags=Jupyter,notebook,analysis
+homepage=https://github.com/millsapjohn/qnotebook
+tracker=https://github.com/millsapjohn/qnotebook/issues
+qgisMaximumVersion=4.99
+icon=icon
+server=False
+hasProcessingProvider=False
+
+
